@@ -16,8 +16,9 @@ echo 'hola mundo mi nombres es: '  . $nombre;
     <title>Pagina web mauricio</title>
 </head>
 <body>
-    <h1>Pagina web de mauricio</h1>
-    <h1><?php echo' hola ' . $nombre ?></h1>
+    <h1>Pagina web de mauricio aaa</h1>
+    <h1><?php echo' hola  aaaa ' . $nombre ?></h1>
+    
     
 </body>
 </html>
